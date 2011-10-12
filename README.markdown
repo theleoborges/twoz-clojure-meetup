@@ -12,6 +12,13 @@ Each meetup lives in a root directory named after that meetup's **ordinal number
 
 **1-20111012**
 
-Inside the meetup directory, create a directory with your name, and put your solution there. If you're the person creating the meetup root directory, don't forget to add a text file with the problem statement inside it. Just use the first meetup directory, already created, as a starting point.
+Inside the meetup directory, create a directory with your name, and put your solution there. After doing that, the directory should look similar to this:
+
+*  1-20111012  
+   *  problem-statement.txt  
+   *  leo-kumar  
+      * 1.clj 
+
+Don't forget to create the problem statement file if there isn't one already.
 
 An lastly, have fun! :)
