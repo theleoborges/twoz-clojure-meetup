@@ -16,9 +16,9 @@ Inside the meetup directory, create a directory with your name, and put your sol
 
 *  1-20111012/  
    *  problem-statement.txt  
-   *  leo-kumar/  
+   *  kurman-leo/  
       * 1.clj 
 
 Don't forget to create the problem statement file if there isn't one already.
 
-An lastly, have fun! :)
+And lastly, have fun! :)
